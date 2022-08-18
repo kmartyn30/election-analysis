@@ -1,4 +1,4 @@
-***###Election Analysis***
+***Election Analysis***
 
 *Project Overview
 The purpose of this project was to run an election commission data analysis reflected on votes in various counties to complete an audit of an election results. The calculation for the total number of votes cast were recorded as 369,711 county total votes.
