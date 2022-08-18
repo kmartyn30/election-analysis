@@ -38,7 +38,7 @@ There were a total votes during this election results of 369,711
 -The winner of the ection was:
      -Candidate 2 Diana DeGette who recieved 73.8% votes of the votes 272,892 number of votes.
  
- ##Election Audit Summary: As an overview of this election audit results were how this could be utilized for the election to determine the top candidates from three county's with modificatons to be considered would be the the number of votes each candidate recieved in each of the counties. The percentage break down for the top three candidates in each county. The total number diffence between each of the candiates votes and percentage differences between each of the candidates votes.  
+ ##Election Audit Summary: As an overview of this election audit results were how this could be utilized for the election to determine the top candidates from three county's with modificatons to be considered would be the the number of votes each candidate recieved in each of the counties. The percentage break down for the top three candidates in each county. The total number diffrence between each of the candidates votes and percentage and between each of the candidates votes.  
 
 
 
