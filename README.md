@@ -1,5 +1,6 @@
-###Election Analysis
-##Project Overview
+***###Election Analysis***
+
+*Project Overview
 The purpose of this project was to run an election commission data analysis reflected on votes in various counties to complete an audit of an election results. The calculation for the total number of votes cast were recorded as 369,711 county total votes.
 1.	Calculated the total number of votes generated from the election results.
 2.	Calculate the county votes for the top three counties.
@@ -10,7 +11,8 @@ The purpose of this project was to run an election commission data analysis refl
 7.	Calculate the total number of votes.
 8.	Determine the winner by calculating the winner, winning vote count and winning percentage overall.
 
-##Resources: The Data Source: election_results.csv 
+*##Resources: 
+The Data Source: election_results.csv 
 Software: Python 3.9.12, Visual Studio Code, 1.38.1
 
 ##Summary: The analysis of the election show that: There were a total vote during this election results of 369,711
@@ -42,6 +44,3 @@ Software: Python 3.9.12, Visual Studio Code, 1.38.1
 #challenge 3 The Election Results see visual attachment by clicking below: ![image](https://user-images.githubusercontent.com/107796290/185283443-41bd7b45-0836-4b24-be4f-4ca1be98d4ad.png)
 # election-analysis
 
-
-#challenge 3 The Election Results see visual attachment by clicking below:
-![2022-08-15 16 36 52](https://user-images.githubusercontent.com/107796290/184714623-d1a56298-15c8-41a6-b8c2-a9cca62888b7.png)
